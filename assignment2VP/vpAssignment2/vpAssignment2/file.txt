@@ -1,0 +1,6 @@
+fiza 01-131152-001 bsse 6 3.3 absent
+hamza 01-131152-016 bsce 7 3.5 absent
+fiza 01-131152-026 bsse 6 3.5 absent
+sana 01-131152-036 bsse 6 3.9 absent
+mishal 01-131152-081 bsse 6 3.0 absent
+sana 01-131152-090 bsse 6 3.2 absent
