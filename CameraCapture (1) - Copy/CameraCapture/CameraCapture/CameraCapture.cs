@@ -17,8 +17,7 @@ namespace CameraCapture
     public partial class Recording : Form
     {
         public string userIdCapture;
-        //declaring global variables
-        private Capture capture;        //takes images from camera as image frames
+        private Capture capture;       
         private bool captureInProgress;
         private HaarCascade haar;
 
@@ -26,11 +25,7 @@ namespace CameraCapture
         {
             InitializeComponent();
         }
-        //------------------------------------------------------------------------------//
-        //Process Frame() below is our user defined function in which we will create an EmguCv 
-        //type image called ImageFrame. capture a frame from camera and allocate it to our 
-        //ImageFrame. then show this image in ourEmguCV imageBox
-        //------------------------------------------------------------------------------//
+      
         private void ProcessFrame(object sender, EventArgs arg)
         {
             Image<Bgr, Byte> ImageFrame = capture.QuerySmallFrame();
@@ -43,6 +38,10 @@ namespace CameraCapture
                 foreach (var face in faces) {
 
                     ImageFrame.Draw(face.rect, new Bgr(Color.Green), 3);
+                    Bitmap BmpInput = ImageFrame.ToBitmap();
+                    pictureBox2.Image = BmpInput;
+                    ImageConverter converter = new ImageConverter();
+                    byte[] file= (byte[])converter.ConvertTo(BmpInput, typeof(byte[]));
                     //byte[] file;
                     //string path = @"C: \Users\sanaa\Downloads\download.jpg";
 
@@ -53,9 +52,9 @@ namespace CameraCapture
                     //        file = reader.ReadBytes((int)stream.Length);
                     //    }
                     //}
-                    //database obj = new database();
+                    database obj = new database();
                     //MessageBox.Show(userIdCapture);
-                    //obj.saveImage(file, userIdCapture);
+                  obj.saveImage(file, userIdCapture);
 
                 }
             
@@ -68,10 +67,7 @@ namespace CameraCapture
             
         }
 
-        //btnStart_Click() function is the one that handles our "Start!" button' click 
-        //event. it creates a new capture object if its not created already. e.g at first time
-        //starting. once the capture is created, it checks if the capture is still in progress,
-        //if so the
+      
         private void btnStart_Click_1(object sender, EventArgs e)
         {
 
@@ -94,16 +90,14 @@ namespace CameraCapture
             if (capture != null)
             {
                 if (captureInProgress)
-                {  //if camera is getting frames then stop the capture and set button Text
-                    // "Start" for resuming capture
+                { 
                     btnStart.Text = "Start!"; //
                     record.Hide();
                     Application.Idle -= ProcessFrame;
                 }
                 else
                 {
-                    //if camera is NOT getting frames then start the capture and set button
-                    // Text to "Stop" for pausing capture
+                    
                     btnStart.Text = "Stop";
                     record.Show();
                     Application.Idle += ProcessFrame;

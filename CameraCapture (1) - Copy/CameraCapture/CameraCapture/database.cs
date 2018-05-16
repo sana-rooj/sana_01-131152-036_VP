@@ -79,8 +79,6 @@ namespace CameraCapture
         public void saveImage(byte[] imageSave, string userIdImage)
         {
             int nextId = 0;
-            string queryId = "select * from images";
-
             MySqlDataAdapter adapter = new MySqlDataAdapter("select * from images", connection);
             DataTable retrive = new DataTable();
             adapter.Fill(retrive);
@@ -91,12 +89,17 @@ namespace CameraCapture
                 MessageBox.Show(nextId.ToString());
 
             }
-            string query = "insert into images(image_id,imageCaptured,user_id) values (@id,@img,@userID)";
+            string query = "insert into images(image_id,imageCaptured,user_id,date,time) values (@id,@img,@userID,@date,@time)";
+            DateTime sysDateTime = DateTime.Now;
+            string dateTime = sysDateTime.ToString();
+            string[] dateAndTime = dateTime.Split(' ');
             using (MySqlCommand command = new MySqlCommand(query, connection))
             {
                 command.Parameters.AddWithValue("@id", ++nextId);
                 command.Parameters.AddWithValue("@img",imageSave );
                 command.Parameters.AddWithValue("@userID",userIdImage);
+                command.Parameters.AddWithValue("@date", dateAndTime[0]);
+                command.Parameters.AddWithValue("@time", dateAndTime[1]);
                 command.ExecuteNonQuery();
 
             }
