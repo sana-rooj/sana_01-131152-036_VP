@@ -1,0 +1,100 @@
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\bin\Debug\Emgu.CV.dll
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\bin\Debug\Emgu.Util.dll
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\bin\Debug\Emgu.CV.xml
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\bin\Debug\Emgu.Util.xml
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\obj\x86\Debug\CameraCapture.CameraOutput.resources
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\obj\x86\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\obj\x86\Debug\CameraCapture.exe
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\obj\x86\Debug\CameraCapture.pdb
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.exe
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.pdb
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.CameraCapture.resources
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.dll
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.dll
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe.config
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe.config
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.dll
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.dll
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.CameraCapture.resources
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csproj.GenerateResource.Cache
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.exe
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.pdb
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe.config
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.dll
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.dll
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\bin\Debug\MySql.Data.dll
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\bin\Debug\Google.Protobuf.dll
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\bin\Debug\MySql.Data.xml
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.Recording.resources
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.images.resources
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.login.resources
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.Menu.resources
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.sign_up.resources
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.exe
+C:\Users\Iftikhar\Downloads\CameraCapture (1)\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.pdb
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe.config
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.exe
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.pdb
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.dll
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.dll
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\MySql.Data.dll
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\Google.Protobuf.dll
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\MySql.Data.xml
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.Recording.resources
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.images.resources
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.login.resources
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.Menu.resources
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.sign_up.resources
+D:\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csproj.GenerateResource.Cache
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe.config
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.dll
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.dll
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\MySql.Data.dll
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\Google.Protobuf.dll
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\bin\Debug\MySql.Data.xml
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.Recording.resources
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.images.resources
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.login.resources
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.Menu.resources
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.sign_up.resources
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csproj.GenerateResource.Cache
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.exe
+E:\D Drive\BackUp\sana\CameraCapture (1) - Copy\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.pdb
